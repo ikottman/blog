@@ -1,0 +1,9 @@
+version: '2.2'
+
+services:
+  sync:
+    image: yep1/s3
+    env_file: local.env
+    command: sync /blog s3://ikottman.io/
+    volumes:
+      - ./content:/blog

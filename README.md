@@ -11,3 +11,8 @@
 
 # DNS Provider
 [Amazon Route 53](https://console.aws.amazon.com/route53/home?#resource-record-sets:Z2VNMEUQ7MO14M)
+
+# Sync
+```
+docker-compose run sync
+```
