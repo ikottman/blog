@@ -6,4 +6,4 @@ services:
     env_file: local.env
     command: sync /blog s3://ikottman.io/
     volumes:
-      - ./content:/blog
+      - ./blog/public:/blog

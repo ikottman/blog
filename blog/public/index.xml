@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ikottman</title>
+    <link>http://ikottman.io/</link>
+    <description>Recent content on ikottman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ikottman.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://ikottman.io/about/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://ikottman.io/about/</guid>
+      <description>Ian Kottman</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ikottman.io/apps/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://ikottman.io/apps/</guid>
+      <description>Spell-Cards</description>
+    </item>
+    
+  </channel>
+</rss>

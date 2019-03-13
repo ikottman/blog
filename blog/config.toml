@@ -1,0 +1,11 @@
+baseURL = "http://ikottman.io/"
+languageCode = "en-us"
+title = "ikottman"
+theme = "temple"
+# code highlighting
+pygmentsStyle = "dracula"
+pygmentsCodeFences = true
+
+[author]
+  name = "Ian Kottman"
+  github = "ikottman"
