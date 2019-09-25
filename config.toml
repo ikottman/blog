@@ -1,4 +1,4 @@
-baseURL = "http://ikottman.io/"
+baseURL = "https://ikottman.com/"
 languageCode = "en-us"
 title = "ikottman"
 theme = "temple"
