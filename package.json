@@ -4,6 +4,5 @@
     "build": "./hugo"
   },
   "dependencies": {
-    "faunadb": "^2.11.1"
   }
 }
