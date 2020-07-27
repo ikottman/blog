@@ -7,7 +7,7 @@ Fancy language makes talking about software needlessly difficult. Abstract jargo
 
 An example is "low coupling, high cohesion". I'm embarrassed to say I didn't understand this saying for years. It's short and memorable, but difficult to internalize. First, the alliteration makes it easy to confuse the words, which is critical when you're supposed to avoid one and encourage the other. Second, "coupling" and "cohesion" aren't familiar, concrete words. Needing a dictionary nearby can make a novel more interesting, but it doesn't help technical communication.
 
-A more relatable phrase is the "knitted castle problem"†. Knitted castles are difficult to change. You have to tear them apart to sew on any new parts. On the other hand, it's trivial to rearrange or expand a Lego castle. You want Lego castles, not knitted ones. The phrase requires a bit more explanation, but the real-life imagery makes it tangible. It's easy to ask yourself if your code looks more Legos or yarn.
+A more relatable phrase is the "knitted castle problem"†. Knitted castles are difficult to change. You have to tear them apart to sew on any new parts. On the other hand, it's trivial to rearrange or expand a Lego castle. You want Lego castles, not knitted ones. The phrase requires a bit more explanation, but the real-life imagery makes it tangible. It's easy to ask yourself if your code looks more like Legos or yarn.
 
 Next time you're explaining something, think twice about the words you use. Simple is better.
 
