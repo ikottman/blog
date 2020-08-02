@@ -8,3 +8,5 @@ date: "2020-07-27"
 [PTO Calculator](/apps/pto-calculator/)
 
 [Slime Mind](/apps/slime-mind/)
+
+[DnD 5e Spell Cards v2](/apps/spellbook/)
