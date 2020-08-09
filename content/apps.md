@@ -9,4 +9,4 @@ date: "2020-08-02"
 
 [Slime Mind](/apps/slime-mind/)
 
-[DnD 5e Spell Cards v2](/apps/spellbook/)
+[DnD 5e Spell Cards v2](/apps/spellbook/spells)
