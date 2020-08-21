@@ -10,3 +10,5 @@ date: "2020-08-02"
 [Slime Mind](/apps/slime-mind/)
 
 [DnD 5e Spell Cards v2](/apps/spellbook/)
+
+[1337 News](/apps/1337-news/)
