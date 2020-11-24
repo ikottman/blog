@@ -1,13 +1,13 @@
-Deployed with [Zeit](https://zeit.co), developed with [hugo](https://gohugo.io), theme a [fork of temple](https://github.com/ikottman/temple).
+Deployed with [vercel](https://vercel.co), developed with [hugo](https://gohugo.io), theme a [fork of temple](https://github.com/ikottman/temple).
 
 To test run:
 ```
-now
+vercel
 ```
 
 to deploy to ikottman.com:
 ```
-now --prod
+vercel --prod
 ```
 
 ## local development
