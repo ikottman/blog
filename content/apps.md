@@ -16,3 +16,5 @@ date: "2021-03-13"
 [Unturned Blueprints](/apps/unturned-blueprints/)
 
 [Date Keeper](/apps/datekeeper/)
+
+[D2 Runefinder](/apps/d2-runefinder/)
