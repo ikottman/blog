@@ -1,7 +1,7 @@
 local.env
 node_modules
 .vscode/
-
+.DS_STORE
 .now
 .env
 .vercel

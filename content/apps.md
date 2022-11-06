@@ -1,7 +1,6 @@
 ---
-date: "2021-11-29"
+date: "2022-11-06"
 ---
-
 
 [DnD 5e Spell Cards](/apps/spell-cards/)
 
@@ -11,7 +10,7 @@ date: "2021-11-29"
 
 [DnD 5e Spell Cards v2](/apps/spellbook/)
 
-[1337 News](/apps/1337-news/)
+[1337 News](https://1337-news.ikottman.com/)
 
 [Unturned Blueprints](/apps/unturned-blueprints/)
 
